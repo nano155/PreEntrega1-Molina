@@ -1,0 +1,31 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;;
+}
+header{
+  background-color: #242424;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1500px;
+}
+.nav-logo{
+  width: 11rem;
+}
+.nav-logo img{
+  width: 100%;
+}
+.nav-list{
+  display: flex;
+  list-style: none;
+  font-size: 2rem;
+  gap: 2rem;
+}
+.title{
+  text-align: center;
+  color: #535bf2;
+}

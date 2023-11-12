@@ -7,7 +7,7 @@ function App() {
   return (
     <div className = "App">
       <NavBar/>
-      <ItemListContainer titulo='BIENVENIDOS A LA NUESTRA TIENDA!'/>
+      <ItemListContainer titulo='BIENVENIDOS A NUESTRA TIENDA!'/>
     </div>
   )
 }
